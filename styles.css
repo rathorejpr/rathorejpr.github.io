@@ -1,0 +1,21 @@
+
+.nav {
+  display: flex;
+  background-color: #be3144;
+  top: 0;
+  left: 0;
+  width: 100%;
+  color: white;
+  justify-content: flex-end;
+  }
+
+.logo {
+    margin-right: 1200px;
+	
+}
+
+
+.menu-item {
+    list-style: none;
+	
+}
